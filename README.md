@@ -17,5 +17,16 @@ Output : Bilangan Terbesar
 
 5. jika kedua kondisi salah, maka Bilangan ke-3 adalah Bilangan Terbesar
 
+
 Flowchart
+
+
+
+
+
+
+
+
+
+
 ![image](https://github.com/user-attachments/assets/6c033842-1f1c-4f1c-a439-5176666a446a)
